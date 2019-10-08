@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Пружа Office администраторима преглед контрола приватности за Office 365 ProPlus, укључујући дијагностичке податке и повезане утиске при раду.
 hideEdit: true
-ms.openlocfilehash: 329d3de3fd4ff20518a8a49f01d7c5bfcd75342b
-ms.sourcegitcommit: de39739d7ab82666ff1389be360d74c518ae97f6
+ms.openlocfilehash: 708c8b1dae02f54d4c6a6195cec9513c8639b62d
+ms.sourcegitcommit: aed9a0908021ffc80baa7159a66b63dd4f9f28e4
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980365"
+ms.lasthandoff: 10/08/2019
+ms.locfileid: "37417438"
 ---
 # <a name="overview-of-privacy-controls-for-office-365-proplus"></a>Преглед контрола приватности за Office 365 ProPlus
 
@@ -39,6 +39,7 @@ Microsoft настоји да вам обезбеди информације и 
 >   - Верзија 1904 или новије верзије програма Project и Visio за рачунаре које се добијају уз неке планове претплате као што су Project Online Professional план или Visio Online план 2.
 > - Ове контроле приватности укључене су у верзију 1908 полугодишњег канала (изабрани корисници), која је објављена 10. септембра 2019. Очекује се да ће бити доступне у оквиру полугодишњег канала у јануару 2020.
 > - Планирано је да те контроле приватности буду доступне у другој половини октобра 2019. за iOS верзије програма Excel, OneNote, PowerPoint, Visio и Word. Више информација објавићемо почетком октобра.
+> - Планирано је да већина система Office за веб апликације почне са коришћењем нове контроле приватности за [опционална повезана искуства](optional-connected-experiences.md) средином октобра 2019. То су следеће апликације: Excel за веб, OneNote за веб, PowerPoint за веб, Visio за веб и Word за веб. Пре него што то крене, можете да користите [Office услугу смерница у облаку](../overview-office-cloud-policy-service.md) да бисте конфигурисали одговарајућу [поставку смерница](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences).
 > - Те нове и унапређене контроле приватности проширићемо на додатне Office клијенте, укључујући Teams и наше апликације за мобилне уређаје. Наредних месеци ћемо пружити више информација о тим променама. Наставићемо да пажљиво слушамо ваше повратне информације и примењујемо унапређења у свим Office 365 клијентима и услугама.
 
 ## <a name="diagnostic-data-sent-from-office-365-proplus-to-microsoft"></a>Дијагностички подаци послати из система Office 365 ProPlus корпорацији Microsoft
