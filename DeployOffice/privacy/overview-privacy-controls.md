@@ -15,12 +15,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: Пружа Office администраторима преглед контрола приватности за Microsoft 365 Apps for enterprise (претходно Office 365 ProPlus), укључујући дијагностичке податке и повезане утиске при раду.
 hideEdit: true
-ms.openlocfilehash: e22388cb73a539e13f67163bf0b0e949b10be349
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 134f7470354796679c9a8c69fac8dd2559302b72
+ms.sourcegitcommit: f8201a088d2b160b6fcec2342e11be0e9ba3d189
 ms.translationtype: HT
 ms.contentlocale: sr-Cyrl-RS
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43993117"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44663564"
 ---
 # <a name="overview-of-privacy-controls-for-microsoft-365-apps-for-enterprise"></a>Преглед контрола приватности за Microsoft 365 Apps for enterprise
 
@@ -37,7 +37,7 @@ Microsoft настоји да вам обезбеди информације и 
 > - Ове промене се односе и на следеће:
 >   - Верзија 16.28 или новије верзије следећих Office for Mac апликација: Excel, Outlook, OneNote, PowerPoint и Word.
 >   - Верзија 1904 или новије верзије програма Project и Visio за рачунаре које се добијају уз неке планове претплате, као што су Project план 5 или Visio план 2.
-> - Ове контроле приватности укључене су у верзију 1908 или новије верзије полугодишњег канала (изабрани корисници) и полугодишњег канала.
+> - Ове контроле приватности укључене су у верзију 1908 или новије верзије полугодишњег канала за велика предузећа (преглед) и полугодишњег канала за велика предузећа.
 > - Ове контроле приватности доступне су за верзију 2.30 и новије iOS верзије програма Excel, OneNote, PowerPoint и Word, као и верзија 1.17 и новије за Visio Viewer за iOS.
 > - Ове контроле приватности доступне су за верзију 16.0.12226.10000 и новије Android верзија програма Excel, PowerPoint и Word, као и верзију 16.0.12228.20004 и новије верзије програма OneNote за Android.
 > - Већина Office апликација за веб користи нову контролу приватности за [опционална повезана искуства](optional-connected-experiences.md). То су следеће апликације: Excel за веб, OneNote за веб, PowerPoint за веб, Visio за веб и Word за веб. Можете да користите [Office услугу смерница у облаку](../overview-office-cloud-policy-service.md) да бисте конфигурисали одговарајућу [поставку смерница](manage-privacy-controls.md#policy-setting-for-optional-connected-experiences).
